@@ -1,4 +1,3 @@
-# Réalisé par Paul Lurin 
 # Touché Coulé ! Dans cette partie de bataille navale que vous jouerez contre un ordinateur sur un plateau de 9*9 cases,
 # vous aurez 5 bateaux : 
 # 55555 : bateau de 5 cases de long
