@@ -16,8 +16,7 @@ def main():
     print("\n\n\n\n––––––––––––––––––––––––––––––––––––––––")
     plateau_ai = initAI()
     plateau_pl = initPlayer()
-    print("\n",plateau_ai)
-
+    # print("\n",plateau_ai)
     game(plateau_ai,plateau_pl)
     return 
 
